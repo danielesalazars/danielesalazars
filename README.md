@@ -1,7 +1,7 @@
 <h1 tabindex="-1" dir="auto">Daniel Eduardo, Salazar Salabarriga</h1>
 <p dir="auto"><strong><code>Full Stack Developer | Backend Developer | Frontend Developer | Developer Freelance</code></strong></p>
 <p dir="auto">Desarrollador Backend y Frontend altamente competente, con más de 13 años de experiencia en el desarrollo de soluciones tecnológicas de vanguardia. Mi experiencia abarca la gestión de servidores, bases de datos, paginas web y aplicaciones móviles. Mi historial de éxito en proyectos complejos me convierten en un profesional sólido y orientado a ofrecer soluciones en el campo del desarrollo de software.</p>
-<p dir="auto">Para conocer más sobre mi, puedes visitar <a href="https://danielsalazar.pe" rel="nofollow">DanielSalazar.pe</a></p>
+<p dir="auto">Para conocer más sobre mi, puedes visitar <a href="https://danielsalazar.pe" rel="nofollow" target="_blank">DanielSalazar.pe</a></p>
 <hr>
 <h2 align="left" tabindex="-1">Habilidades</h2>
 <h3 align="left" tabindex="-1">Lenguajes de programación</h3>
