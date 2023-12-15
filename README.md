@@ -164,4 +164,4 @@
 </p>
 <hr>
 <h2 align="left" noborder="0">Algunas Estadisticas</h2>
-<p><figure><embed src="https://wakatime.com/share/@a46f31f0-d847-4f02-b0de-fc5de4c177b9/bdf61a0c-1e89-4545-a04c-b112648c115a.svg"></embed></figure></p>
+<p><a href="https://wakatime.com"><img src="https://wakatime.com/share/@a46f31f0-d847-4f02-b0de-fc5de4c177b9/1a5a5e3f-b942-48d8-9422-5d15df69092a.png" /></a></p>
