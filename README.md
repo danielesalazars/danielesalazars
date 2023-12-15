@@ -164,4 +164,4 @@
 </p>
 <hr>
 <h2 align="left" noborder="0">Algunas Estadisticas</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielesalazars&" alt="danielesalazars" /></p>
+<p><figure><embed src="https://wakatime.com/share/@a46f31f0-d847-4f02-b0de-fc5de4c177b9/bdf61a0c-1e89-4545-a04c-b112648c115a.svg"></embed></figure></p>
