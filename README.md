@@ -47,7 +47,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:318/1*7jRD5QhgARucFKvRHFxpOg.png" alt="style-components" width="40" height="40" style="max-width: 100%;" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://tailwindcss.com/">
-    <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwindcss" width="40" height="40" style="max-width: 100%;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="40" height="40" style="max-width: 100%;" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://mui.com/">
     <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="material" width="40" height="40" style="max-width: 100%;" />
