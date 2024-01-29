@@ -89,7 +89,7 @@
     <img src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" alt="mariadb" width="40" height="40" style="max-width: 100%;" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.microsoft.com/es-es/sql-server">
-    <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="sqlserver" width="40" height="40" style="max-width: 100%;" />
+    <img src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" alt="sqlserver" width="40" height="40" style="max-width: 100%;" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.oracle.com/pe/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;" />
