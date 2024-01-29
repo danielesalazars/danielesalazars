@@ -86,7 +86,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://mariadb.org/">
-    <img src="https://camo.githubusercontent.com/c801bc4030f308500f29b695f0771ba313b3b2088c91d06152b5cc5a050e3127/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6172696164622f6d6172696164622d69636f6e2e737667" alt="mariadb" width="40" height="40" style="max-width: 100%;" />
+    <img src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" alt="mariadb" width="40" height="40" style="max-width: 100%;" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.microsoft.com/es-es/sql-server">
     <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="sqlserver" width="40" height="40" style="max-width: 100%;" />
