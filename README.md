@@ -129,6 +129,12 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.djangoproject.com/">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" alt="django" width="40" height="40" style="max-width: 100%;" />
   </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://nextjs.org/">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="NextJS" width="40" height="40" style="max-width: 100%;" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://nestjs.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="40" height="40" style="max-width: 100%;" />
+  </a>
 </p>
 
 <h3 align="left">Software</h3>
