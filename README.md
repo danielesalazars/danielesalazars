@@ -59,9 +59,6 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="php" width="40" height="40" style="max-width: 100%;" />
   </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="python" width="40" height="40" style="max-width: 100%;" />
-  </a>
 </p>
 
 <h3 align="left">Desarrollo de App móviles</h3>
@@ -134,6 +131,9 @@
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://nestjs.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="40" height="40" style="max-width: 100%;" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="python" width="40" height="40" style="max-width: 100%;" />
   </a>
 </p>
 
