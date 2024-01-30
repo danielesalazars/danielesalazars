@@ -134,7 +134,7 @@
 <h3 align="left">Software</h3>
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.figma.com/">
-    <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40" style="max-width: 100%;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40" style="max-width: 100%;" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.invisionapp.com/">
     <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40" style="max-width: 100%;" />
